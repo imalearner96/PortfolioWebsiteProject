@@ -375,3 +375,7 @@ iframe {
     height: 10%;
     border-radius: 50%;
 }
+
+section h2 {
+    text-decoration:underline;
+}
