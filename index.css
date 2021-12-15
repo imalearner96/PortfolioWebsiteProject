@@ -366,3 +366,7 @@ iframe {
         width:100%;
     }
 }
+
+#avatar {
+    border-radius: 50%;
+}
